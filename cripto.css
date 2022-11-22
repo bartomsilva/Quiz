@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+
+}
+.caixas{
+
+    width: 100vw;
+    height: 100vh;
+    background: #6C7A89;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+
+}
+
+.bloco {
+    text-align: center;
+}
+.botao{
+    margin:15px
+}
+.flex {
+    display: flex;
+}
