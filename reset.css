@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+    border: 0;
+} 
+body {
+    font-family: "Open Sans", sans-serif;
+    font-size: 18px;
+}
+ul, ol, li  {
+    list-style: none; 
+}
+a {
+    text-decoration: none;
+}
+/*tentando implementar uma técnica chamada crossbrowser
+
